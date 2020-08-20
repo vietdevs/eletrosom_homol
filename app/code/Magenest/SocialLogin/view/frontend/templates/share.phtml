@@ -1,0 +1,38 @@
+<?php
+/**
+ * @var Magenest\SocialLogin\Block\Share $block
+ */
+?>
+
+<?php if ($block->isShareEnabled()) :
+    $socialShare = $block->getSocialShare();
+    if (count($socialShare) > 0) :
+        ?>
+        <div>
+        <span class="share" style="font-weight: bold; font-size: 15px">
+        <?php echo __('Compartilhe'); ?>
+    </span>
+            <script>
+                require([
+                    'jquery',
+                    'hideshare'
+                ], function ($) {
+                    'use strict';
+                    $(".product-info-main .share").hideshare({
+                        link: document.URL,
+                        title: "<?php echo $block->getDescription(); ?>",
+                        media:  "<?php echo $block->getMedia(); ?>",
+                        decription: "",
+                        twitter: <?php echo isset($socialShare['twitter']) ? "true" : "false"; ?>,
+                        facebook: <?php echo isset($socialShare['facebook']) ? "true" : "false"; ?>,
+                        linkedin: <?php echo isset($socialShare['linkedin']) ? "true" : "false"; ?>,
+                        pinterest: <?php echo isset($socialShare['pinterest']) ? "true" : "false"; ?>,
+                        reddit: <?php echo isset($socialShare['reddit']) ? "true" : "false"; ?>,
+                        position: "bottom",
+                        speed: 50
+                    });
+                });
+            </script>
+        </div>
+    <?php endif;
+endif; ?>

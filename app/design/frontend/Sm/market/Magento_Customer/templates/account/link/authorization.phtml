@@ -1,0 +1,43 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+/** @var \Magento\Customer\Block\Account\AuthorizationLink $block */
+
+$dataPostParam = '';
+if ($block->isLoggedIn()) {
+    $dataPostParam = sprintf(" data-post='%s'", $block->getPostParams());
+}
+ ?>
+<?php
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$customerSession = $objectManager->create('Magento\Customer\Model\Session');
+if ($customerSession->isLoggedIn()) {
+    $customerSession->getCustomerId();  // get Customer Id
+    $customerSession->getCustomerGroupId();
+    $customerSession->getCustomer();
+    $customerSession->getCustomerData();
+}
+?>
+<div class="header links" style="margin-left: 5px;max-width: 140px;">
+    <?php if($customerSession->isLoggedIn()) : ?>
+        <div class="authorization-link" data-label="<?= $block->escapeHtml(__('or')) ?>">
+            <a <?= /* @noEscape */ $block->getLinkAttributes() ?><?= /* @noEscape */ $dataPostParam ?>>
+                <img src="/pub/static/frontend/Sm/market/pt_BR/images/profile-icon.png">
+            </a>
+            <a href="<?php echo $block->getUrl('customer/account/'); ?>">
+        <span class="label" style="font-size: 120% !important;color: #fff;font-weight: 600 !important;margin-left: 5px;float: right;">
+            <?php /* @escapeNotVerified */ echo ('Olá, ' .$customerSession->getCustomer()->getFirstname()); ?>
+        </span>
+            </a>
+        </div>
+    <?php else : ?>
+    <div class="authorization-link" data-label="<?= $block->escapeHtml(__('or')) ?>">
+        <a <?= /* @noEscape */ $block->getLinkAttributes() ?><?= /* @noEscape */ $dataPostParam ?>>
+            <img src="/pub/static/frontend/Sm/market/pt_BR/images/profile-icon.png">
+        </a>
+    </div>
+    <?php endif; ?>
+</div>

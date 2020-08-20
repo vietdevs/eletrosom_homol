@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<page layout="2columns-left" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="Meetanshi_WhatsappShare::css/whatsapp.css"/>
+    </head>
+    <body>
+        <referenceBlock name="category.products.list">
+            <action method="setTemplate" ifconfig="whatsappshare/configuration/enable">
+                <argument name="template" xsi:type="string">Meetanshi_WhatsappShare::list.phtml</argument>
+            </action>
+            <block class="Meetanshi\WhatsappShare\Block\WhatsappShare" name="grid_list"  template="Meetanshi_WhatsappShare::list/grid.phtml"/>
+        </referenceBlock>
+    </body>
+</page>

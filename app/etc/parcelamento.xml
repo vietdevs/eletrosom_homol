@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+	<parcelas>
+			<parc01>1.0000000</parc01>
+			<parc02>0.5074372</parc02>
+			<parc03>0.3399550</parc03>
+			<parc04>0.2562180</parc04>
+			<parc05>0.2059790</parc05>
+			<parc06>0.1724891</parc06>
+			<parc07>0.1485700</parc07>
+			<parc08>0.1306327</parc08>
+			<parc09>0.1166833</parc09>
+			<parc10>0.1055254</parc10>
+			<parc11>0.0963977</parc11>
+			<parc12>0.0887927</parc12>
+	</parcelas>
+	<parcela_minima>10.00</parcela_minima>
+	<juros>0.99</juros>
+</config>
+
+
+
+
+

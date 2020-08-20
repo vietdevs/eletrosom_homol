@@ -1,0 +1,47 @@
+<?php
+$_helper = $this->helper('Sm\Market\Helper\Data');
+?>
+<div class="socials-wrap">
+
+    <ul style="display: inline-flex;">
+        <?php if ($_helper->getSocial('show_facebook')) { ?>
+            <li class="li-social facebook-social">
+                <a title="<?php echo $_helper->getSocial('facebook_name'); ?>"
+                   href="<?php echo $_helper->getSocial('facebook_url'); ?>" target="_blank" style="margin-right: 15px;">
+                    <img src="/media/images/facebook-footer.png" alt="Eletrosom Facebook">
+                </a>
+            </li>
+        <?php } ?>
+
+        <?php if ($_helper->getSocial('show_instagram')) { ?>
+            <li class="li-social instagram-social">
+                <a title="<?php echo $_helper->getSocial('instagram_name'); ?>"
+                   href="<?php echo $_helper->getSocial('instagram_url'); ?>" target="_blank" style="margin-right: 15px;">
+                    <img src="/media/images/instagram-footer.png" alt="Eletrosom Instagram">
+                </a>
+            </li>
+        <?php } ?>
+
+        <?php if ($_helper->getSocial('show_twitter')) { ?>
+            <li class="li-social twitter-social">
+                <a title="<?php echo $_helper->getSocial('twitter_name'); ?>"
+                   href="<?php echo $_helper->getSocial('twitter_url'); ?>" target="_blank" style="margin-right: 15px;">
+                    <img src="/media/images/twitter-footer.png" alt="Eletroson Twitter">
+                </a>
+            </li>
+        <?php } ?>
+
+
+
+        <?php if ($_helper->getSocial('show_youtube')) { ?>
+            <li class="li-social youtube-social">
+                <a title="<?php echo $_helper->getSocial('youtube_name'); ?>"
+                   href="<?php echo $_helper->getSocial('youtube_url'); ?>" target="_blank" style="margin-right: 15px;">
+                    <img src="/media/images//youtube-footer.png" alt="Eletrosom Youtube">
+                </a>
+            </li>
+        <?php } ?>
+
+
+    </ul>
+</div>

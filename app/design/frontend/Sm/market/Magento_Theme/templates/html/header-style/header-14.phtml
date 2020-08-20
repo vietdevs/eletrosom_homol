@@ -1,0 +1,80 @@
+<div class="header-container header-style-14">
+    <div class="header-14-content">
+        <div class="header-top">
+            <div class="container">
+                <div class="row row-topheader">
+                    <div class="col-lg-6 col-md-4 col-sm-4 language-currency-header">
+                        <p style="font-size: 13px;font-weight: 600;margin-top: 4px;"><img title="Central de Atendimento" src="/pub/media/menus/phone.png"}}" style="margin-top: 2px;margin-right: 3px;" alt="Central de Atendimento"> Televendas: (34) 4005-9333 (Capitais) | (34) 3293-5800 (Demais Localidades)</p>
+                    </div>
+
+                    <div class="col-lg-6 col-md-8 col-sm-8 header-top-info">
+                        <p style="font-size: 13px;font-weight: 600;text-align: right;margin-top: 4px;"><img title="Central de Atendimento" src="/pub/media/menus/help.png"}}" style="margin-top: 0px;margin-right: 3px;" alt="Central de Atendimento"><span class="top-menu-font"><a class="link_topo" href="/central-de-atendimento">Central de Atendimento</a></span> | <img title="Encontre uma loja" src="/pub/media/menus/place.png"}}" alt="Encontre uma loja"><span class="top-menu-font"><a class="link_topo" href="/nossas-lojas">Encontre uma loja</a></span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-middle">
+            <div class="container">
+                <div class="middle-content">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-3 logo-header">
+                            <?php echo $block->getChildHtml('logo_theme'); ?>
+                        </div>
+
+                        <div class="col-xl-10 col-lg-9 header-middle-right">
+
+                            <div class="search-header">
+                                <?php echo $block->getChildHtml('search-header-pro'); ?>
+                            </div>
+
+                            <div class="header-top-links">
+                                <?php echo $block->getChildHtml('toplinks-header'); ?>
+                            </div>
+
+
+                            <div class="minicart-header" style="float: right;">
+                                <div class="minicart-content">
+                                           <?php echo $block->getChildHtml('cart-header'); ?>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-2 col-lg-3 sidebar-megamenu">
+                        <div class="megamenu-content-sidebar">
+                            <div class="btn-megamenu">
+                                <a href="javascript:void(0)"
+                                   title="<?php echo __('Departamentos') ?>"><?php echo __('Departamentos') ?></a>
+                            </div>
+
+                            <div class="menu-ver-content">
+                                <?php
+                                if ($_config->getGeneral('menu_style') == 'megamenu') {
+                                    echo $block->getChildHtml('navigation-header-megamenu');
+                                } else {
+                                    echo $block->getChildHtml('navigation-header');
+                                }
+                                ?>
+                            </div>
+                        </div>
+
+                        <div class="navigation-mobile-container">
+                            <?php echo $block->getChildHtml('navigation.mobile'); ?>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-10 col-lg-9 main-megamenu">
+                        <?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('megamenu-horizontal')->toHtml(); ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

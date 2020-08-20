@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <whatsappshare>
+            <configuration>
+                <enable>0</enable>
+                <product_wise>1</product_wise>
+                <category_wise>1</category_wise>
+            </configuration>
+            <settings>
+                <button_type>1</button_type>
+                <product_name>1</product_name>
+                <product_description>1</product_description>
+                <product_price>1</product_price>
+                <deal_on>0</deal_on>
+                <special_price_message>Buy Now Only At {{special_price}}</special_price_message>
+                <discount_message>Use code MEETANSHI123 to get 10% discount on this product.</discount_message>
+            </settings>
+            <utm>
+                <enable>0</enable>
+            </utm>
+            <bitly>
+                <enable>0</enable>
+            </bitly>
+        </whatsappshare>
+    </default>
+</config>

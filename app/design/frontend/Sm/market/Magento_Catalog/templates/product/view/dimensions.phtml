@@ -1,0 +1,30 @@
+<?php $_product = $block->getProduct(); ?>
+<div id="product-dimension" class="container">
+    <div class="mdc-layout-grid__inner no-padding">
+        <div class="mdc-layout-grid__cell--span-1-desktop mobile-none"></div>
+        <div class="mdc-layout-grid__cell--span-10-desktop mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-4-phone">
+            <div class="dimension-title">
+                <span class="mdc-typography--headline5 dimension-title-text">Dimensões do Produto</span>
+            </div>
+            <div class="mdc-card card-dimension flex-row-center">
+                <div class="product-width flex-column-center">
+                  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center">
+                    <h3 class="medtitulo">Largura</h3>
+                    <div class="medidas"><?php echo number_format($_product->getData('largura'),2);?>cm</div>
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center">
+                    <h3 class="medtitulo">Altura</h3>
+                    <div class="medidas"><?php echo number_format($_product->getData('altura'),2);?>cm</div>
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center">
+                    <h3 class="medtitulo">Profundidade</h3>
+                    <div class="medidas"><?php echo number_format($_product->getData('profundidade'),2);?>cm</div>
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center">
+                    <h3 class="medtitulo">Peso</h3>
+                    <div class="medidas"><?php echo number_format($_product->getData('weight'),2);?>kg</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

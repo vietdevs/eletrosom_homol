@@ -1,0 +1,1321 @@
+<?xml version="1.0"?>
+<lojas>
+	<mg>
+		<loja>
+			<nome>ABADIA DOS DOURADOS - MG</nome>
+			<endereco>Praça Manoel E. dos Santos, 66</endereco>
+			<bairro>Centro</bairro>
+			<cep>38540-000</cep>
+			<fone>(34) 3847-1314</fone>
+			<estado>MG</estado>
+			<numero>70</numero>
+			<latitude>-18.4864885</latitude>
+			<longitude>-47.4034174</longitude>
+		</loja>
+		<loja>
+			<nome>ABAETE - MG</nome>
+			<endereco>Rua Dr Antonio Amador, 541</endereco>
+			<bairro>Centro</bairro>
+			<cep>35620-000</cep>
+			<fone>(37) 3541-4447</fone>
+			<estado>MG</estado>
+			<numero>206</numero>
+			<latitude>-19.1563708</latitude>
+			<longitude>-45.4534797</longitude>
+		</loja>
+		<loja>
+			<nome>ARAGUARI - MG</nome>
+			<endereco>Rua Rui Barbosa, 110</endereco>
+			<bairro>Centro</bairro>
+			<cep>38440-222</cep>
+			<fone>(34) 3246-2500</fone>
+			<estado>MG</estado>
+			<numero>35</numero>
+			<latitude>-18.6497116</latitude>
+			<longitude>-48.1917134</longitude>
+		</loja>
+		<loja>
+			<nome>ARAXA - MG</nome>
+			<endereco>Av. Presidente Olegario Maciel, 69</endereco>
+			<bairro>Centro</bairro>
+			<cep>38183-186</cep>
+			<fone>(34) 3661-1642</fone>
+			<estado>MG</estado>
+			<numero>25</numero>
+			<latitude>-19.591614</latitude>
+			<longitude>-46.939061</longitude>
+		</loja>
+		<loja>
+			<nome>ARCOS - MG</nome>
+			<endereco>Avenida Governador Valadares, 263</endereco>
+			<bairro>Centro</bairro>
+			<cep>35588-000</cep>
+			<fone>(37) 3351-1308</fone>
+			<estado>MG</estado>
+			<numero>5</numero>
+			<latitude>-20.289859</latitude>
+			<longitude>-45.5412729</longitude>
+		</loja>
+		<loja>
+			<nome>BAMBUI - MG</nome>
+			<endereco>Rua Getulio Vargas, 63</endereco>
+			<bairro>Centro</bairro>
+			<cep>38900-000</cep>
+			<fone>(37) 3431-2301</fone>
+		</loja>
+		<loja>
+			<nome>BOCAIUVA - MG</nome>
+			<endereco>Av. Francisco Dumond, 375</endereco>
+			<bairro>Centro</bairro>
+			<cep>39390-000</cep>
+			<fone>(38) 3251-5913</fone>
+		</loja>
+		<loja>
+			<nome>BOM DESPACHO - MG</nome>
+			<endereco>Praça da Matriz, 164</endereco>
+			<bairro>Centro</bairro>
+			<cep>35600-000</cep>
+			<fone>(37) 3522-6947</fone>
+		</loja>
+		<loja>
+			<nome>BRASILANDIA DE MINAS - MG</nome>
+			<endereco>Rua Joao Alves Qdr 56 Lote 05, 42</endereco>
+			<bairro>Loteamento Poma</bairro>
+			<cep>38779-000</cep>
+			<fone>(38) 3562-2222</fone>
+		</loja>
+		<loja>
+			<nome>BRASILIA DE MINAS - MG</nome>
+			<endereco>Rua Coronel Sansao, 334</endereco>
+			<bairro>Centro</bairro>
+			<cep>39330-000</cep>
+			<fone>(38) 3231-2926</fone>
+		</loja>
+		<loja>
+			<nome>BUENOPOLIS - MG</nome>
+			<endereco>Av. Presidente Juscelino Kubitschek de Oliveira, 300</endereco>
+			<bairro>Setor I</bairro>
+			<cep>39230-000</cep>
+			<fone>(38) 3756-1556</fone>
+		</loja>
+		<loja>
+			<nome>BURITIS - MG</nome>
+			<endereco>Av. Bandeirantes, 873</endereco>
+			<bairro>Centro</bairro>
+			<cep>38660-000</cep>
+			<fone>(38) 3662-2200</fone>
+		</loja>
+		<loja>
+			<nome>BURITIZEIRO - MG</nome>
+			<endereco>Av. Manoel Joaquim de Melo, 470</endereco>
+			<bairro>Centro</bairro>
+			<cep>39280-000</cep>
+			<fone>(38) 3742-2169</fone>
+		</loja>
+		<loja>
+			<nome>CAMPINA VERDE - MG</nome>
+			<endereco>Rua 26 Quadra 59 Lote 13, 782</endereco>
+			<bairro>Centro</bairro>
+			<cep>38270-000</cep>
+			<fone>(34) 3412-2510</fone>
+		</loja>
+		<loja>
+			<nome>CAMPOS ALTOS - MG</nome>
+			<endereco>Rua Tiradentes, 538</endereco>
+			<bairro>Centro</bairro>
+			<cep>38970-000</cep>
+			<fone>(37) 3426-2845</fone>
+		</loja>
+		<loja>
+			<nome>CAPELINHA - MG</nome>
+			<endereco>Rua Das Flores, 580</endereco>
+			<bairro>Centro</bairro>
+			<cep>39680-000</cep>
+			<fone>(33) 3516-2142</fone>
+		</loja>
+		<loja>
+			<nome>CAPINOPOLIS - MG</nome>
+			<endereco>Av. 102, 711</endereco>
+			<bairro>Centro</bairro>
+			<cep>38360-000</cep>
+			<fone>(34) 3263-2000</fone>
+		</loja>
+		<loja>
+			<nome>CAPITAO ENEAS - MG</nome>
+			<endereco>Rua Burarama, 362</endereco>
+			<bairro>Centro</bairro>
+			<cep>39472-000</cep>
+			<fone>(38) 3235-1463</fone>
+		</loja>
+		<loja>
+			<nome>CARMO DO PARANAIBA - MG</nome>
+			<endereco>Rua Aristides de Melo, 532</endereco>
+			<bairro>Centro</bairro>
+			<cep>38840-000</cep>
+			<fone>(34) 3851-5650</fone>
+		</loja>
+		<loja>
+			<nome>CENTRALINA - MG</nome>
+			<endereco>Av. Afonso Pena, 795</endereco>
+			<bairro>Centro</bairro>
+			<cep>38390-000</cep>
+			<fone>(34) 3267-8379</fone>
+		</loja>
+		<loja>
+			<nome>CONCEICAO DAS ALAGOAS - MG</nome>
+			<endereco>Av. Brasil, 555</endereco>
+			<bairro>Centro</bairro>
+			<cep>38120-000</cep>
+			<fone>(34) 3321-1928</fone>
+		</loja>
+		<loja>
+			<nome>CONSELHEIRO LAFAIETE - MG</nome>
+			<endereco>Av. Prefeito Telesforo Candido de Resende, 130</endereco>
+			<bairro>Centro</bairro>
+			<cep>36400-000</cep>
+			<fone>(31) 3721-5629</fone>
+		</loja>
+		<loja>
+			<nome>CORACAO DE JESUS - MG</nome>
+			<endereco>Rua Jesus Chateaubriand Souza Letra A, 1072</endereco>
+			<bairro>Centro</bairro>
+			<cep>39340-000</cep>
+			<fone>(38) 3228-2241</fone>
+		</loja>
+		<loja>
+			<nome>CORINTO - MG</nome>
+			<endereco>Rua Coronel Ricardo Gregorio, 392</endereco>
+			<bairro>Centro</bairro>
+			<cep>39200-000</cep>
+			<fone>(38) 3751-2104</fone>
+		</loja>
+		<loja>
+			<nome>COROMANDEL - MG</nome>
+			<endereco>Av. Governador Israel Pinheiro, 22</endereco>
+			<bairro>Centro</bairro>
+			<cep>38550-000</cep>
+			<fone>(34) 3841-2255</fone>
+		</loja>
+		<loja>
+			<nome>CURVELO - MG</nome>
+			<endereco>Rua Dom Pedro II, 149</endereco>
+			<bairro>Centro</bairro>
+			<cep>35790-000</cep>
+			<fone>(38) 3721-5855</fone>
+		</loja>
+		<loja>
+			<nome>DELTA - MG</nome>
+			<endereco>Av. Jose Agostinho Filho, 246</endereco>
+			<bairro>Centro</bairro>
+			<cep>38108-000</cep>
+			<fone>(34) 3325-0112</fone>
+		</loja>
+		<loja>
+			<nome>DIAMANTINA - MG</nome>
+			<endereco>Praca Dom João, 53</endereco>
+			<bairro>Dom João</bairro>
+			<cep>39100-000</cep>
+			<fone>(38) 3531-4292</fone>
+		</loja>
+		<loja>
+			<nome>DIVINOPOLIS - MG</nome>
+			<endereco>Rua Goias, 480</endereco>
+			<bairro>Centro</bairro>
+			<cep>35500-003</cep>
+			<fone>(37) 3222-0901</fone>
+		</loja>
+		<loja>
+			<nome>ESPINOSA - MG</nome>
+			<endereco>Rua da Bahia, 55</endereco>
+			<bairro>Centro</bairro>
+			<cep>39510-000</cep>
+			<fone>(38) 3812-3238</fone>
+		</loja>
+		<loja>
+			<nome>ESTRELA DO SUL - MG</nome>
+			<endereco>Praca Chico Brasileiro, 211</endereco>
+			<bairro>Centro</bairro>
+			<cep>38525-000</cep>
+			<fone>(34) 3843-1106</fone>
+		</loja>
+		<loja>
+			<nome>FRANCISCO SA - MG</nome>
+			<endereco>Rua Sete de Setembro, 134</endereco>
+			<bairro>Centro</bairro>
+			<cep>39580-000</cep>
+			<fone>(38) 3233-1946</fone>
+		</loja>
+		<loja>
+			<nome>FRUTAL - MG</nome>
+			<endereco>Praca Rui Barbosa, 2</endereco>
+			<bairro>Centro</bairro>
+			<cep>38200-000</cep>
+			<fone>(34) 3421-0150</fone>
+		</loja>
+		<loja>
+			<nome>GOVERNADOR VALADARES - MG</nome>
+			<endereco>Rua Israel Pinheiro, 2672</endereco>
+			<bairro>Centro</bairro>
+			<cep>35010-131</cep>
+			<fone>(33) 3271-1107</fone>
+		</loja>
+		<loja>
+			<nome>GUIMARANIA - MG</nome>
+			<endereco>Rua Conselheiro Rufino, 596</endereco>
+			<bairro>Centro</bairro>
+			<cep>38730-000</cep>
+			<fone>(34) 3834-1594</fone>
+		</loja>
+		<loja>
+			<nome>IBIA - MG</nome>
+			<endereco>Rua Vinte, 488</endereco>
+			<bairro>Centro</bairro>
+			<cep>38950-000</cep>
+			<fone>(34) 3631-4181</fone>
+		</loja>
+		<loja>
+			<nome>INDIANOPOLIS - MG</nome>
+			<endereco>Praca Urias Jose da Silva, 52</endereco>
+			<bairro>Centro</bairro>
+			<cep>38490-000</cep>
+			<fone>(34) 3245-1641</fone>
+		</loja>
+		<loja>
+			<nome>IRAI DE MINAS - MG</nome>
+			<endereco>Av. Sete de Setembro, 17</endereco>
+			<bairro>Centro</bairro>
+			<cep>38510-000</cep>
+			<fone>(34) 3845-1293</fone>
+		</loja>
+		<loja>
+			<nome>ITACARAMBI - MG</nome>
+			<endereco>Rua Januaria, 121</endereco>
+			<bairro>Centro</bairro>
+			<cep>39470-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>ITAPAGIPE - MG</nome>
+			<endereco>Rua 10, 874</endereco>
+			<bairro>Centro</bairro>
+			<cep>38240-000</cep>
+			<fone>(34) 3424-1308</fone>
+		</loja>
+		<loja>
+			<nome>ITUIUTABA - MG</nome>
+			<endereco>Rua 22, 688</endereco>
+			<bairro>Centro</bairro>
+			<cep>38301-115</cep>
+			<fone>(34) 3261-5800</fone>
+		</loja>
+		<loja>
+			<nome>ITURAMA - MG</nome>
+			<endereco>Av. Rio Grande, 819</endereco>
+			<bairro>Centro</bairro>
+			<cep>38280-000</cep>
+			<fone>(34) 3411-6332</fone>
+		</loja>
+		<loja>
+			<nome>JAIBA - MG</nome>
+			<endereco>Av. Coronel Moacir Jose Silva, 133</endereco>
+			<bairro>Centro</bairro>
+			<cep>39508-000</cep>
+			<fone>(38) 3833-2258</fone>
+		</loja>
+		<loja>
+			<nome>JANAUBA - MG</nome>
+			<endereco>Av. do Comercio, Lote 447 Quadra 24 Setor 3, 515</endereco>
+			<bairro>Centro</bairro>
+			<cep>39442-016</cep>
+			<fone>(38) 3821-4514</fone>
+		</loja>
+		<loja>
+			<nome>JANUARIA - MG</nome>
+			<endereco>Rua Coronel Serrao, 169</endereco>
+			<bairro>Centro</bairro>
+			<cep>39480-000</cep>
+			<fone>(38) 3621-6287</fone>
+		</loja>
+		<loja>
+			<nome>JOAO PINHEIRO - MG</nome>
+			<endereco>Praca Major Mendonca, 454</endereco>
+			<bairro>Centro</bairro>
+			<cep>38770-000</cep>
+			<fone>(38) 3561-1520</fone>
+		</loja>
+		<loja>
+			<nome>JUIZ DE FORA - MG</nome>
+			<endereco>Batista de Oliveira, 615</endereco>
+			<bairro>Centro</bairro>
+			<cep>36010-120</cep>
+			<fone>(32) 3211-0443</fone>
+		</loja>
+		<loja>
+			<nome>LAGOA DA PRATA - MG</nome>
+			<endereco>Av. Benedito Valadares, 826</endereco>
+			<bairro>Centro</bairro>
+			<cep>35590-000</cep>
+			<fone>(37) 3261-5766</fone>
+		</loja>
+		<loja>
+			<nome>LUZ - MG</nome>
+			<endereco>Rua Coronel Jose Tomaz, 477</endereco>
+			<bairro>Centro</bairro>
+			<cep>35595-000</cep>
+			<fone>(37) 3421-3263</fone>
+		</loja>
+		<loja>
+			<nome>MIRABELA - MG</nome>
+			<endereco>Rua Bom Jesus, 6</endereco>
+			<bairro>Centro</bairro>
+			<cep>39420-000</cep>
+			<fone>(38) 3239-1270</fone>
+		</loja>
+		<loja>
+			<nome>MONTE ALEGRE DE MINAS - MG</nome>
+			<endereco>Av. 16 De Setembro, 342</endereco>
+			<bairro>Centro</bairro>
+			<cep>38475-000</cep>
+			<fone>(34) 3283-1308</fone>
+		</loja>
+		<loja>
+			<nome>MONTE AZUL - MG</nome>
+			<endereco>Praca Coronel Jonathas, 298</endereco>
+			<bairro>Centro</bairro>
+			<cep>39500-000</cep>
+			<fone>(38) 3811-1097</fone>
+		</loja>
+		<loja>
+			<nome>MONTE CARMELO - MG</nome>
+			<endereco>Rua Sao Bento, 520</endereco>
+			<bairro>Planalto</bairro>
+			<cep>38500-000</cep>
+			<fone>(34) 3842-2509</fone>
+		</loja>
+		<loja>
+			<nome>MONTE CARMELO - MG</nome>
+			<endereco>Rua Sao Bento, 520</endereco>
+			<bairro>Planalto</bairro>
+			<cep>38500-000</cep>
+			<fone>(34) 3842-2509</fone>
+		</loja>
+		<loja>
+			<nome>MONTE CARMELO - MG</nome>
+			<endereco>Rua Sao Bento, 520</endereco>
+			<bairro>Planalto</bairro>
+			<cep>38500-000</cep>
+			<fone>(34) 3842-2509</fone>
+		</loja>
+		<loja>
+			<nome>MONTE CARMELO - MG</nome>
+			<endereco>Praca Rio Branco, 166</endereco>
+			<bairro>Centro</bairro>
+			<cep>38500-000</cep>
+			<fone>(34) 3842-2132</fone>
+		</loja>
+		<loja>
+			<nome>MONTE CARMELO - MG</nome>
+			<endereco>Praca Getulio Vargas, 8</endereco>
+			<bairro>Centro</bairro>
+			<cep>38500-000</cep>
+			<fone>(34) 3842-2455</fone>
+		</loja>
+		<loja>
+			<nome>MONTES CLAROS - MG</nome>
+			<endereco>Av. Francisco Caetani, 1000</endereco>
+			<bairro>Major Prates</bairro>
+			<cep>39403-202</cep>
+			<fone>(38) 3224-4747</fone>
+		</loja>
+		<loja>
+			<nome>MONTES CLAROS - MG</nome>
+			<endereco>Rua Padre Augusto, 342</endereco>
+			<bairro>Centro</bairro>
+			<cep>39400-053</cep>
+			<fone>(38) 3212-8182</fone>
+		</loja>
+		<loja>
+			<nome>MONTES CLAROS - MG</nome>
+			<endereco>Rua Rui Barbosa, 64</endereco>
+			<bairro>Centro</bairro>
+			<cep>39400-051</cep>
+			<fone>(38) 3222-6868</fone>
+		</loja>
+		<loja>
+			<nome>MONTES CLAROS - MG</nome>
+			<endereco>Av. Donato Quitino Compl. Salas E-54/55/56/5, 90</endereco>
+			<bairro>Canelas</bairro>
+			<cep>39400-546</cep>
+			<fone>(38) 3214-1510</fone>
+		</loja>
+		<loja>
+			<nome>NOVA PONTE - MG</nome>
+			<endereco>Av. Governador Valadares, 1111</endereco>
+			<bairro>Centro</bairro>
+			<cep>38160-000</cep>
+			<fone>(34) 3356-0870</fone>
+		</loja>
+		<loja>
+			<nome>NOVA SERRANA - MG</nome>
+			<endereco>Rua Coronel Martinho Ferreira Do Amaral, 99</endereco>
+			<bairro>Centro</bairro>
+			<cep>35519-000</cep>
+			<fone>(37) 3226-1384</fone>
+		</loja>
+		<loja>
+			<nome>OLIVEIRA - MG</nome>
+			<endereco>Av. Pinheiro Chagas, 30</endereco>
+			<bairro>Centro</bairro>
+			<cep>35540-000</cep>
+			<fone>(37) 3331-8127</fone>
+		</loja>
+		<loja>
+			<nome>PARA DE MINAS - MG</nome>
+			<endereco>Rua Benedito Valadares, 131</endereco>
+			<bairro>Centro</bairro>
+			<cep>35660-630</cep>
+			<fone>(37) 3236-0051</fone>
+		</loja>
+		<loja>
+			<nome>PARACATU - MG</nome>
+			<endereco>Av. Olegario Maciel, 514</endereco>
+			<bairro>Centro</bairro>
+			<cep>38600-970</cep>
+			<fone>(38) 3671-6417</fone>
+		</loja>
+		<loja>
+			<nome>PARAOPEBA - MG</nome>
+			<endereco>Rua Isaias Correa, 142</endereco>
+			<bairro>Centro</bairro>
+			<cep>35774-000</cep>
+			<fone>(31) 3714-3027</fone>
+		</loja>
+		<loja>
+			<nome>PATOS DE MINAS - MG</nome>
+			<endereco>Av. Olegario Maciel, 296</endereco>
+			<bairro>Centro</bairro>
+			<cep>38700-122</cep>
+			<fone>(34) 3823-1755</fone>
+		</loja>
+		<loja>
+			<nome>PATROCINIO - MG</nome>
+			<endereco>Av. Faria Pereira, 2326</endereco>
+			<bairro>Centro</bairro>
+			<cep>38740-000</cep>
+			<fone>(34) 3831-6000</fone>
+		</loja>
+		<loja>
+			<nome>PERDIZES - MG</nome>
+			<endereco>Rua Augusto Luiz Coelho, 115</endereco>
+			<bairro>Centro</bairro>
+			<cep>38170-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>PIRAPORA - MG</nome>
+			<endereco>Rua Rodofo Mallard, 37</endereco>
+			<bairro>Centro</bairro>
+			<cep>39270-000</cep>
+			<fone>(38) 3741-7220</fone>
+		</loja>
+		<loja>
+			<nome>PLANURA - MG</nome>
+			<endereco>Rua Araguari Quadra B Lote 8c, 136</endereco>
+			<bairro>Centro</bairro>
+			<cep>38220-000</cep>
+			<fone>(34) 3427-8103</fone>
+		</loja>
+		<loja>
+			<nome>POMPEU - MG</nome>
+			<endereco>Rua Osvaldo Alves, 85</endereco>
+			<bairro>Centro</bairro>
+			<cep>35640-000</cep>
+			<fone>(37) 3523-4679</fone>
+		</loja>
+		<loja>
+			<nome>PORTEIRINHA - MG</nome>
+			<endereco>Praca Coronel Odilon Coelho, 105</endereco>
+			<bairro>Centro</bairro>
+			<cep>39520-000</cep>
+			<fone>(38) 3831-2036</fone>
+		</loja>
+		<loja>
+			<nome>PRATA - MG</nome>
+			<endereco>Rua Joaquim Fernandes, 96</endereco>
+			<bairro>Centro</bairro>
+			<cep>38140-000</cep>
+			<fone>(34) 3431-5557</fone>
+		</loja>
+		<loja>
+			<nome>PRESIDENTE OLEGARIO - MG</nome>
+			<endereco>Rua Felisberto Fonseca, 100</endereco>
+			<bairro>Centro</bairro>
+			<cep>38750-000</cep>
+			<fone>(34) 3811-9250</fone>
+		</loja>
+		<loja>
+			<nome>RIO PARANAIBA - MG</nome>
+			<endereco>Rua Joao Leandro, 1416</endereco>
+			<bairro>Centro</bairro>
+			<cep>38810-000</cep>
+			<fone>(34) 3855-3295</fone>
+		</loja>
+		<loja>
+			<nome>SACRAMENTO - MG</nome>
+			<endereco>Av. Vigario Paixao, 42</endereco>
+			<bairro>Centro</bairro>
+			<cep>38190-000</cep>
+			<fone>(34) 3351-4111</fone>
+		</loja>
+		<loja>
+			<nome>SALINAS - MG</nome>
+			<endereco>Av. Joao Pena Sobrinho Esq. Rua Abdenago Lisboa, 120</endereco>
+			<bairro>Alvorada</bairro>
+			<cep>39560-000</cep>
+			<fone>(38) 3841-3436</fone>
+		</loja>
+		<loja>
+			<nome>SANTA JULIANA - MG</nome>
+			<endereco>Praca Doutor Helvecio Torres Cunha, 454</endereco>
+			<bairro>Centro</bairro>
+			<cep>38175-000</cep>
+			<fone>(34) 3354-2485</fone>
+		</loja>
+		<loja>
+			<nome>SANTA VITORIA - MG</nome>
+			<endereco>Rua Genesio Franco De Moraes, 1226</endereco>
+			<bairro>Centro</bairro>
+			<cep>38320-000</cep>
+			<fone>(34) 3251-3136</fone>
+		</loja>
+		<loja>
+			<nome>SAO FRANCISCO - MG</nome>
+			<endereco>Av. Oscar Caetano, 1235</endereco>
+			<bairro>Centro</bairro>
+			<cep>39300-000</cep>
+			<fone>(38) 3631-1436</fone>
+		</loja>
+		<loja>
+			<nome>SAO GOTARDO - MG</nome>
+			<endereco>Rua Bento Ferreira dos Santos, 175</endereco>
+			<bairro>Centro</bairro>
+			<cep>38800-000</cep>
+			<fone>(34) 3671-2085</fone>
+		</loja>
+		<loja>
+			<nome>SAO JOAO DA PONTE - MG</nome>
+			<endereco>Praca Olimpio Campos, 320</endereco>
+			<bairro>Centro</bairro>
+			<cep>39430-000</cep>
+			<fone>(38) 3234-1643</fone>
+		</loja>
+		<loja>
+			<nome>SERRA DO SALITRE - MG</nome>
+			<endereco>Av. Joao Mariano, 441</endereco>
+			<bairro>Centro</bairro>
+			<cep>38760-000</cep>
+			<fone>(34) 3833-1405</fone>
+		</loja>
+		<loja>
+			<nome>SETE LAGOAS - MG</nome>
+			<endereco>Rua Lassance Cunha, 44</endereco>
+			<bairro>Centro</bairro>
+			<cep>35700-006</cep>
+			<fone>(31) 3776-8212</fone>
+		</loja>
+		<loja>
+			<nome>TAIOBEIRAS - MG</nome>
+			<endereco>Av. Liberdade, 631</endereco>
+			<bairro>Centro</bairro>
+			<cep>39550-000</cep>
+			<fone>(38) 3845-3752</fone>
+		</loja>
+		<loja>
+			<nome>TRES MARIAS - MG</nome>
+			<endereco>Rua Castelo Branco, 2</endereco>
+			<bairro>Centro</bairro>
+			<cep>39205-000</cep>
+			<fone>(38) 3754-2411</fone>
+		</loja>
+		<loja>
+			<nome>TUPACIGUARA - MG</nome>
+			<endereco>Rua Bueno Brandao, 185</endereco>
+			<bairro>Centro</bairro>
+			<cep>38480-000</cep>
+			<fone>(34) 3281-3340</fone>
+		</loja>
+		<loja>
+			<nome>TURMALINA - MG</nome>
+			<endereco>Rua Antonio Alves, 89</endereco>
+			<bairro>Centro</bairro>
+			<cep>39660-000</cep>
+			<fone>(38) 3527-1312</fone>
+		</loja>
+		<loja>
+			<nome>UBAI - MG</nome>
+			<endereco>Av. Vale Do Sao Francisco, 440</endereco>
+			<bairro>Centro</bairro>
+			<cep>39320-000</cep>
+			<fone>(38) 3633-1425</fone>
+		</loja>
+		<loja>
+			<nome>UBERABA - MG</nome>
+			<endereco>Av. Leopoldino De Oliveira, 3615</endereco>
+			<bairro>Centro</bairro>
+			<cep>38010-000</cep>
+			<fone>(34) 3332-0840</fone>
+		</loja>
+		<loja>
+			<nome>UBERABA - MG</nome>
+			<endereco>Rua Prudente de Morais, 14</endereco>
+			<bairro>Ns da Abadia</bairro>
+			<cep>38026-250</cep>
+			<fone>(34) 3317-0959</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Av. Joao Pinheiro Lj 30 E 31, 1154</endereco>
+			<bairro>Aparecida</bairro>
+			<cep>38405-239</cep>
+			<fone>(34) 3235-4016</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Av. Jose Fonseca e Silva, 596</endereco>
+			<bairro>Luizote</bairro>
+			<cep>38414-348</cep>
+			<fone>(34) 3210-2964</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Av. Afonso Pena, 228</endereco>
+			<bairro>Centro</bairro>
+			<cep>38400-128</cep>
+			<fone>(34) 3224-7501</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Praca Tubal Vilela, 27</endereco>
+			<bairro>Centro</bairro>
+			<cep>38400-186</cep>
+			<fone>(34) 3255-2333</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Av. Afonso Pena, 459</endereco>
+			<bairro>Centro</bairro>
+			<cep>38400-128</cep>
+			<fone>(34) 3224-6776</fone>
+		</loja>
+		<loja>
+			<nome>UBERLANDIA - MG</nome>
+			<endereco>Rua Ativo Ferreira Batista Compl. Comercio 01, 166</endereco>
+			<bairro>Resid. Viviane</bairro>
+			<cep>38410-036</cep>
+			<fone>(34) 3236-3709</fone>
+		</loja>
+		<loja>
+			<nome>UNAI - MG</nome>
+			<endereco>Av. Governador Valadares, 1099</endereco>
+			<bairro>Centro</bairro>
+			<cep>38610-000</cep>
+			<fone>(38) 3676-7285</fone>
+		</loja>
+		<loja>
+			<nome>VARJAO DE MINAS - MG</nome>
+			<endereco>Av. Jovino Mariano Gomes, 991</endereco>
+			<bairro>Centro</bairro>
+			<cep>38794-000</cep>
+			<fone>(38) 3567-5491</fone>
+		</loja>
+		<loja>
+			<nome>VARZEA DA PALMA - MG</nome>
+			<endereco>Rua Frei Jorge, 761</endereco>
+			<bairro>Centro</bairro>
+			<cep>39260-000</cep>
+			<fone>(38) 3731-3409</fone>
+		</loja>
+		<loja>
+			<nome>VAZANTE - MG</nome>
+			<endereco>Rua Joao Claudio, 406</endereco>
+			<bairro>Centro</bairro>
+			<cep>38780-000</cep>
+			<fone>(34) 3813-1300</fone>
+		</loja>
+	</mg>
+	<go>
+		<loja>
+			<nome>ACREUNA - GO</nome>
+			<endereco>Av. Altina Pires Arantes Quadra 10 Lote K, 10</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>75960-000</cep>
+			<fone>(64) 3645-2028</fone>
+		</loja>
+		<loja>
+			<nome>AGUAS LINDAS DE GOIAS - GO</nome>
+			<endereco>Av. Jk Qd 15 Lt 17, 0</endereco>
+			<bairro>Jardim Brasilia</bairro>
+			<cep>72910-000</cep>
+			<fone>(61) 3613-1280</fone>
+		</loja>
+		<loja>
+			<nome>ANAPOLIS - GO</nome>
+			<endereco>Rua Engenheiro Portela Complemento C-01, 166</endereco>
+			<bairro>Centro</bairro>
+			<cep>75024-100</cep>
+			<fone>(62) 3902-1977</fone>
+		</loja>
+		<loja>
+			<nome>ANAPOLIS - GO</nome>
+			<endereco>Av. Fernando Costa , Quadra 05 - Lote 61, 616</endereco>
+			<bairro>Vila Jaiara</bairro>
+			<cep>75064-780</cep>
+			<fone>(62) 3319-2279</fone>
+		</loja>
+		<loja>
+			<nome>ANICUNS - GO</nome>
+			<endereco>Av. Tocantins, 1040</endereco>
+			<bairro>Central</bairro>
+			<cep>76170-000</cep>
+			<fone>(64) 3564-1234</fone>
+		</loja>
+		<loja>
+			<nome>APARECIDA DE GOIANIA - GO</nome>
+			<endereco>Av. Da Igualdade - Quadra 118 - Lote 18, 0</endereco>
+			<bairro>Setor Garavelo</bairro>
+			<cep>74930-530</cep>
+			<fone>(62) 3588-3859</fone>
+		</loja>
+		<loja>
+			<nome>APARECIDA DE GOIANIA - GO</nome>
+			<endereco>Rua Joao Batista De Toledo Quadra 13 Lote 02, 0</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>74980-060</cep>
+			<fone>(62) 3248-0539</fone>
+		</loja>
+		<loja>
+			<nome>APARECIDA DE GOIANIA - GO</nome>
+			<endereco>Av. Ruda Quadra 41-a Lote 07, 0</endereco>
+			<bairro>Vila Brasilia</bairro>
+			<cep>74905-760</cep>
+			<fone>(62) 3280-5135</fone>
+		</loja>
+		<loja>
+			<nome>APARECIDA DE GOIANIA - GO</nome>
+			<endereco>Rua 22 Qdr044 Lote 0012, 0</endereco>
+			<bairro>Independencia</bairro>
+			<cep>74967-150</cep>
+			<fone>(62) 3248-6268</fone>
+		</loja>
+		<loja>
+			<nome>BELA VISTA DE GOIAS - GO</nome>
+			<endereco>Av. Senador Pedro Ludovico Teeixeira, 368</endereco>
+			<bairro>Centro 2</bairro>
+			<cep>75240-000</cep>
+			<fone>(62) 3551-1073</fone>
+		</loja>
+		<loja>
+			<nome>BOM JESUS DE GOIAS - GO</nome>
+			<endereco>Av. Goias, Quadra 06 , Lote 02-a, 473</endereco>
+			<bairro>Centro</bairro>
+			<cep>75570-000</cep>
+			<fone>(64) 3608-2772</fone>
+		</loja>
+		<loja>
+			<nome>CACU - GO</nome>
+			<endereco>Av. Idelfonso Carneiro Qd 62, 1317</endereco>
+			<bairro>Loteamento Muni</bairro>
+			<cep>75813-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>CALDAS NOVAS - GO</nome>
+			<endereco>Rua Augusto Antonio Guimaraes Lt 01 Qd 15, 1</endereco>
+			<bairro>Centro</bairro>
+			<cep>75690-000</cep>
+			<fone>(64) 3453-0617</fone>
+		</loja>
+		<loja>
+			<nome>CATALAO - GO</nome>
+			<endereco>Av. Vinte de Agosto, 1397</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>75701-010</cep>
+			<fone>(64) 3411-0788</fone>
+		</loja>
+		<loja>
+			<nome>CERES - GO</nome>
+			<endereco>Av. Bernardo Sayao, 196</endereco>
+			<bairro>Centro</bairro>
+			<cep>76300-000</cep>
+			<fone>(62) 3307-1857</fone>
+		</loja>
+		<loja>
+			<nome>CIDADE OCIDENTAL - GO</nome>
+			<endereco>Rua Super Quadra 16, Qd.08,lote 28 E 29, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>72880-000</cep>
+			<fone>(61) 3625-1765</fone>
+		</loja>
+		<loja>
+			<nome>CORUMBAIBA - GO</nome>
+			<endereco>Rua Dr Pedro Ludovico, 742</endereco>
+			<bairro>Centro</bairro>
+			<cep>75675-000</cep>
+			<fone>(64) 3447-2734</fone>
+		</loja>
+		<loja>
+			<nome>CRISTALINA - GO</nome>
+			<endereco>Rua J.j.taveira, 480</endereco>
+			<bairro>Centro</bairro>
+			<cep>73850-000</cep>
+			<fone>(61) 3612-2863</fone>
+		</loja>
+		<loja>
+			<nome>EDEIA - GO</nome>
+			<endereco>Av. Dom Pedro Ii Quadra 34 Lote 21, 0</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>75940-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>FORMOSA - GO</nome>
+			<endereco>Rua Visconde De Porto Seguro Qd15 Lote01, 1</endereco>
+			<bairro>Centro</bairro>
+			<cep>73801-010</cep>
+			<fone>(61) 3631-0463</fone>
+		</loja>
+		<loja>
+			<nome>GOIANESIA - GO</nome>
+			<endereco>Av. Goias Note Qdr 80 Lote 12, 1128</endereco>
+			<bairro>Carrilho</bairro>
+			<cep>76380-728</cep>
+			<fone>(62) 3353-3752</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIA - GO</nome>
+			<endereco>Av. Anhanguera, 4596</endereco>
+			<bairro>Centro</bairro>
+			<cep>74040-010</cep>
+			<fone>(62) 3905-2149</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIA - GO</nome>
+			<endereco>Av. Araguaia, 1 Pavimento Quadra51 Lote74, 512</endereco>
+			<bairro>Centro</bairro>
+			<cep>74030-075</cep>
+			<fone>(62) 3905-2154</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIA - GO</nome>
+			<endereco>Av. Anhanguera, Qd: 51 Lote: 120, 4601</endereco>
+			<bairro>Centro</bairro>
+			<cep>74043-011</cep>
+			<fone>(62) 3905-2141</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIA - GO</nome>
+			<endereco>Av. 24 De Outubro Qd: 36 Lt: 06, 1781</endereco>
+			<bairro>Setor Campinas</bairro>
+			<cep>74505-016</cep>
+			<fone>(62) 3905-2128</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIA - GO</nome>
+			<endereco>Av. Mangalo Qd 2/14 Lote 14, 198</endereco>
+			<bairro>Morada do Sold</bairro>
+			<cep>74475-115</cep>
+			<fone>(62) 3534-1874</fone>
+		</loja>
+		<loja>
+			<nome>GOIANIRA - GO</nome>
+			<endereco>Av. Jose Rodrigues Naves, 0</endereco>
+			<bairro>Vila Pr Pelagio</bairro>
+			<cep>75370-000</cep>
+			<fone>(62) 3516-1226</fone>
+		</loja>
+		<loja>
+			<nome>GOIAS - GO</nome>
+			<endereco>Rua B Quadra 09 Lote 27, 0</endereco>
+			<bairro>Vila Agnelo</bairro>
+			<cep>76600-000</cep>
+			<fone>(34) 3842-2509</fone>
+		</loja>
+		<loja>
+			<nome>GOIATUBA - GO</nome>
+			<endereco>Av. Presidente Vargas, 644</endereco>
+			<bairro>Centro</bairro>
+			<cep>75600-000</cep>
+			<fone>(64) 3495-1555</fone>
+		</loja>
+		<loja>
+			<nome>INDIARA - GO</nome>
+			<endereco>Av. Pedro Ludovico Teixeira Qdr 000l Lote 0001, 0</endereco>
+			<bairro>Setor Alto Prim</bairro>
+			<cep>75955-000</cep>
+			<fone>(64) 3547-1852</fone>
+		</loja>
+		<loja>
+			<nome>INHUMAS - GO</nome>
+			<endereco>Rua Goias, 546</endereco>
+			<bairro>Centro</bairro>
+			<cep>75400-000</cep>
+			<fone>(62) 3514-4615</fone>
+		</loja>
+		<loja>
+			<nome>IPAMERI - GO</nome>
+			<endereco>Praça da Liberdade, 35</endereco>
+			<bairro>Centro</bairro>
+			<cep>75780-000</cep>
+			<fone>(64) 3491-1700</fone>
+		</loja>
+		<loja>
+			<nome>IPORA - GO</nome>
+			<endereco>Av. Goias, 122</endereco>
+			<bairro>Centro</bairro>
+			<cep>76200-000</cep>
+			<fone>(64) 3674-5905</fone>
+		</loja>
+		<loja>
+			<nome>ITABERAI - GO</nome>
+			<endereco>Praça Balduino Silva Caldas, 394</endereco>
+			<bairro>Centro</bairro>
+			<cep>76630-000</cep>
+			<fone>(62) 3375-1101</fone>
+		</loja>
+		<loja>
+			<nome>ITAPURANGA - GO</nome>
+			<endereco>Rua 50-a C/45 Quadra01 Lote 07 A, 0</endereco>
+			<bairro>Vila Nova</bairro>
+			<cep>76680-000</cep>
+			<fone>(62) 3355-1214</fone>
+		</loja>
+		<loja>
+			<nome>ITUMBIARA - GO</nome>
+			<endereco>Rua Santa Rita, 115</endereco>
+			<bairro>Centro</bairro>
+			<cep>75503-290</cep>
+			<fone>(64) 3432-3004</fone>
+		</loja>
+		<loja>
+			<nome>JARAGUA - GO</nome>
+			<endereco>Av. Coronel Tubertino Rios Q10 Lote 04c, 435</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>76330-000</cep>
+			<fone>(62) 3326-4977</fone>
+		</loja>
+		<loja>
+			<nome>JATAI - GO</nome>
+			<endereco>Av. Goias, 1033</endereco>
+			<bairro>Centro</bairro>
+			<cep>75800-012</cep>
+			<fone>(64) 3631-0169</fone>
+		</loja>
+		<loja>
+			<nome>JUSSARA - GO</nome>
+			<endereco>Av. Marechal Rondom Qd9 Lote 5, 641</endereco>
+			<bairro>Centro</bairro>
+			<cep>76270-000</cep>
+			<fone>(62) 3373-3393</fone>
+		</loja>
+		<loja>
+			<nome>LUZIANIA - GO</nome>
+			<endereco>Rua do Comercio Lote A 01, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>72800-010</cep>
+			<fone>(61) 3622-3713</fone>
+		</loja>
+		<loja>
+			<nome>LUZIANIA - GO</nome>
+			<endereco>Localidade Quadra 14 Lote 19 Rua 6, 0</endereco>
+			<bairro>Parque Estrelad</bairro>
+			<cep>72853-014</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>MINACU - GO</nome>
+			<endereco>Av. Maranhao, 900</endereco>
+			<bairro>Centro</bairro>
+			<cep>76450-000</cep>
+			<fone>(62) 3379-3676</fone>
+		</loja>
+		<loja>
+			<nome>MINEIROS - GO</nome>
+			<endereco>Av. Antonio Carlos Paniago, 83</endereco>
+			<bairro>Centro</bairro>
+			<cep>75830-000</cep>
+			<fone>(64) 3661-8842</fone>
+		</loja>
+		<loja>
+			<nome>MORRINHOS - GO</nome>
+			<endereco>Av. Senador Hermenegildo De Morais Qd10 Lt38, 0</endereco>
+			<bairro>Setor Centro</bairro>
+			<cep>75650-000</cep>
+			<fone>(64) 3413-2323</fone>
+		</loja>
+		<loja>
+			<nome>MOZARLANDIA - GO</nome>
+			<endereco>Rua Altino Tome Quadra 49 Lote 12, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>76700-000</cep>
+			<fone>(62) 3348-6422</fone>
+		</loja>
+		<loja>
+			<nome>NEROPOLIS - GO</nome>
+			<endereco>Rua Narceu de Almeida Quadra 7 Lote 12a, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>75460-000</cep>
+			<fone>(62) 3513-2301</fone>
+		</loja>
+		<loja>
+			<nome>NIQUELANDIA - GO</nome>
+			<endereco>Rua 07 De Setmbro, 61</endereco>
+			<bairro>Setor Centro</bairro>
+			<cep>76420-000</cep>
+			<fone>(62) 3354-3738</fone>
+		</loja>
+		<loja>
+			<nome>PALMEIRAS DE GOIAS - GO</nome>
+			<endereco>Av. Humberto Mendonca Qd 16 Lt 2/1, 400</endereco>
+			<bairro>Setor Sao Jose</bairro>
+			<cep>76190-000</cep>
+			<fone>(64) 3571-1468</fone>
+		</loja>
+		<loja>
+			<nome>PIRACANJUBA - GO</nome>
+			<endereco>Av. Dom Pedro II Quadra 06 Lote 28, 549</endereco>
+			<bairro>Setor Centro</bairro>
+			<cep>75640-000</cep>
+			<fone>(64) 3405-1204</fone>
+		</loja>
+		<loja>
+			<nome>PIRENOPOLIS - GO</nome>
+			<endereco>Av. Benjamin Constant, 14</endereco>
+			<bairro>Centro</bairro>
+			<cep>72980-000</cep>
+			<fone>(62) 3331-3526</fone>
+		</loja>
+		<loja>
+			<nome>PIRES DO RIO - GO</nome>
+			<endereco>Av. Lino Sampaio, 22</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>75200-000</cep>
+			<fone>(64) 3461-6272</fone>
+		</loja>
+		<loja>
+			<nome>PLANALTINA - GO</nome>
+			<endereco>Quadra 01mc Lote 08, 1</endereco>
+			<bairro>Setor Norte</bairro>
+			<cep>73750-201</cep>
+			<fone>(61) 3639-1226</fone>
+		</loja>
+		<loja>
+			<nome>PONTALINA - GO</nome>
+			<endereco>Av. Comercial Quadra 32 Lote 10, 1166</endereco>
+			<bairro>Centro</bairro>
+			<cep>75620-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>PORANGATU - GO</nome>
+			<endereco>Av. Avelino Americo Azevedo, 145</endereco>
+			<bairro>Centro</bairro>
+			<cep>76550-000</cep>
+			<fone>(62) 3367-1140</fone>
+		</loja>
+		<loja>
+			<nome>QUIRINOPOLIS - GO</nome>
+			<endereco>Av. Brasil Compl. Qd 056 Lt018, 128</endereco>
+			<bairro>Centro</bairro>
+			<cep>75860-000</cep>
+			<fone>(64) 3651-2515</fone>
+		</loja>
+		<loja>
+			<nome>RIO VERDE - GO</nome>
+			<endereco>Av. Presidente Vargas, 1053</endereco>
+			<bairro>Centro</bairro>
+			<cep>75901-040</cep>
+			<fone>(64) 3621-1306</fone>
+		</loja>
+		<loja>
+			<nome>RUBIATABA - GO</nome>
+			<endereco>Av. Aroeira Qdr 81 Lote 42, 412</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>76350-000</cep>
+			<fone>(62) 3325-1228</fone>
+		</loja>
+		<loja>
+			<nome>SANTA HELENA DE GOIAS - GO</nome>
+			<endereco>Rua Eduvaldo Veloso Do Carmo Quadra 3, 685</endereco>
+			<bairro>Setor Centro</bairro>
+			<cep>75920-000</cep>
+			<fone>(64) 3641-1742</fone>
+		</loja>
+		<loja>
+			<nome>SANTO ANTONIO DO DESCOBERTO - GO</nome>
+			<endereco>Loc Qd 54 Lt 21/22 Lj 02 03 E 04, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>72900-970</cep>
+			<fone>(61) 3606-1280</fone>
+		</loja>
+		<loja>
+			<nome>SAO LUIS DE MONTES BELOS - GO</nome>
+			<endereco>Av. Hermogenes Coelho Compl.quadra 20, Lt 04,0, 2314</endereco>
+			<bairro>Setor Rodoviari</bairro>
+			<cep>76100-000</cep>
+			<fone>(64) 3671-1187</fone>
+		</loja>
+		<loja>
+			<nome>SAO SIMAO - GO</nome>
+			<endereco>Rua 07 Quadra K Lote 139, 0</endereco>
+			<bairro>Conjunto Popula</bairro>
+			<cep>75890-000</cep>
+			<fone>(64) 3658-0054</fone>
+		</loja>
+		<loja>
+			<nome>SENADOR CANEDO - GO</nome>
+			<endereco>Rua Dom Emanoel, Qd 01, Lote 12, 0</endereco>
+			<bairro>Setor Central</bairro>
+			<cep>75250-970</cep>
+			<fone>(62) 3901-4724</fone>
+		</loja>
+		<loja>
+			<nome>SILVANIA - GO</nome>
+			<endereco>Av. Dom Bosco Quadra 03 Lote 238, 0</endereco>
+			<bairro>Conselheiro Man</bairro>
+			<cep>75180-000</cep>
+			<fone>(62) 3332-1639</fone>
+		</loja>
+		<loja>
+			<nome>TRINDADE - GO</nome>
+			<endereco>Av. Manoel Monteiro Qd 34 Lote 11, 858</endereco>
+			<bairro>V Padre Eterno</bairro>
+			<cep>75388-238</cep>
+			<fone>(62) 3506-4340</fone>
+		</loja>
+		<loja>
+			<nome>URUACU - GO</nome>
+			<endereco>Av. Tocantins, 72</endereco>
+			<bairro>Centro</bairro>
+			<cep>76400-000</cep>
+			<fone>(62) 3357-6567</fone>
+		</loja>
+		<loja>
+			<nome>VALPARAISO DE GOIAS - GO</nome>
+			<endereco>Rua Da Br40 Qudara 06 Lote G Qd 04a0, 0</endereco>
+			<bairro>Pq Sao Bernardo</bairro>
+			<cep>72870-424</cep>
+			<fone>(61) 3629-7193</fone>
+		</loja>
+	</go>
+	<ba>
+		<loja>
+			<nome>BARRA DO CHOCA - BA</nome>
+			<endereco>Av. Brasil Quadra I Lote 13, 48</endereco>
+			<bairro>Centro</bairro>
+			<cep>45120-000</cep>
+			<fone>(34) 3849-2300</fone>
+		</loja>
+		<loja>
+			<nome>BRUMADO - BA</nome>
+			<endereco>Av. Dr Antonio Mourao Guimaraes, 286</endereco>
+			<bairro>Centro</bairro>
+			<cep>46100-000</cep>
+			<fone>(77) 3441-4248</fone>
+		</loja>
+		<loja>
+			<nome>CACULE - BA</nome>
+			<endereco>Av. Conego Miguel Monteiro, 0</endereco>
+			<bairro>Centro</bairro>
+			<cep>46300-000</cep>
+			<fone>(77) 3455-1071</fone>
+		</loja>
+		<loja>
+			<nome>CAETITE - BA</nome>
+			<endereco>Av. Santana, 99</endereco>
+			<bairro>Centro</bairro>
+			<cep>46400-000</cep>
+			<fone>(77) 3454-4530</fone>
+		</loja>
+		<loja>
+			<nome>GUANAMBI - BA</nome>
+			<endereco>Praca Gercino Coelho, 30</endereco>
+			<bairro>Centro</bairro>
+			<cep>46430-000</cep>
+			<fone>(77) 3451-1979</fone>
+		</loja>
+		<loja>
+			<nome>IPIAU - BA</nome>
+			<endereco>Rua 2 de Julho, 150</endereco>
+			<bairro>Centro</bairro>
+			<cep>45570-000</cep>
+			<fone>(73) 3531-6988</fone>
+		</loja>
+		<loja>
+			<nome>LIVRAMENTO DE NOSSA SENHORA - BA</nome>
+			<endereco>Av. Doutor Nelson Leal, 407</endereco>
+			<bairro>Centro</bairro>
+			<cep>46140-000</cep>
+			<fone>(77) 3444-5539</fone>
+		</loja>
+		<loja>
+			<nome>VITORIA DA CONQUISTA - BA</nome>
+			<endereco>Av. Lauro De Freitas, 181</endereco>
+			<bairro>Centro</bairro>
+			<cep>45000-230</cep>
+			<fone>(77) 3422-6690</fone>
+		</loja>
+		<loja>
+			<nome>VITORIA DA CONQUISTA - BA</nome>
+			<endereco>Av. Itabuna, 2572</endereco>
+			<bairro>Brasil</bairro>
+			<cep>45051-070</cep>
+			<fone>(77) 3422-5779</fone>
+		</loja>
+	</ba>
+	<df>
+		<loja>
+			<nome>BRASILIA - DF</nome>
+			<endereco>St Norte Quadra 03 Bloco A Lotes, 6</endereco>
+			<bairro>Centro</bairro>
+			<cep>72705-531</cep>
+			<fone>(61) 3391-1531</fone>
+		</loja>
+		<loja>
+			<nome>BRASILIA - DF</nome>
+			<endereco>Av. Paranoa Conjunto 11 Lote, 11</endereco>
+			<bairro>Paranoa</bairro>
+			<cep>71571-711</cep>
+			<fone>(61) 3369-7673</fone>
+		</loja>
+	</df>
+	<to>
+		<loja>
+			<nome>GURUPI - TO</nome>
+			<endereco>Rua Goias Qd 13 Lote 04, 2250</endereco>
+			<bairro>Centro</bairro>
+			<cep>77410-010</cep>
+			<fone>(63) 3351-2840</fone>
+		</loja>
+		<loja>
+			<nome>PALMAS - TO</nome>
+			<endereco>Av. Tocantins C Rua T06 Qd 06 Lote 01, 0</endereco>
+			<bairro>Taquaralto</bairro>
+			<cep>77064-580</cep>
+			<fone>(63) 3571-3447</fone>
+		</loja>
+		<loja>
+			<nome>PALMAS - TO</nome>
+			<endereco>Av. Jk Qd 104 N 1, 109</endereco>
+			<bairro>Plano Diretor N</bairro>
+			<cep>77006-016</cep>
+			<fone>(63) 3213-1386</fone>
+		</loja>
+		<loja>
+			<nome>PARAISO DO TOCANTINS - TO</nome>
+			<endereco>Av. Bernardo Sayao, 1189</endereco>
+			<bairro>Centro</bairro>
+			<cep>77600-000</cep>
+			<fone>(63) 3602-3724</fone>
+		</loja>
+	</to>
+</lojas>

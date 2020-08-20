@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!--
+   /*
+   * *
+   *  @author DCKAP Team
+   *  @copyright Copyright (c) 2018 DCKAP (https://www.dckap.com)
+   *  @package Dckap_CustomFields
+   */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Api/etc/extension_attributes.xsd">
+   <extension_attributes for="Magento\Checkout\Api\Data\ShippingInformationInterface">
+       <attribute code="pedido_erp" type="string" />
+       <attribute code="nota_fiscal" type="string" />
+       <attribute code="prazo_entrega" type="string" />
+       <attribute code="customer_rg" type="string" />
+       <attribute code="customer_cpf" type="string" />
+       <attribute code="valorfretecalc" type="string" />
+       <attribute code="prazo" type="string" />
+       <attribute code="pedido_fornecedor" type="string" />
+       <attribute code="pedido_cappi" type="string" />
+       <attribute code="referrer" type="string" />
+       <attribute code="pincode" type="string" />
+       <attribute code="valorparc" type="string" />
+       <attribute code="userorder" type="string" />
+       <attribute code="tipo_consumo" type="string" />
+       <attribute code="clearsale_pedido_enviado" type="string" />
+       <attribute code="clearsale_pedido_enviado2" type="string" />
+       <attribute code="clearsale_pedido_aprovado" type="string" />
+       <attribute code="clearsale_pedido_enviado" type="string" />
+       <attribute code="clearsale_pedido_aprovado2" type="string" />
+       <attribute code="clearsale_data_enviado" type="string" />
+       <attribute code="clearsale_data_enviado2" type="string" />
+       <attribute code="clearsale_data_aprovado" type="string" />
+       <attribute code="clearsale_data_aprovado2" type="string" />
+       <attribute code="clearsale_status" type="string" />
+       <attribute code="clearsale_status2" type="string" />
+       <attribute code="clearsale_data_aprovado2" type="string" />
+       <attribute code="referencia" type="string" />
+       <attribute code="responsavel" type="string" />
+       <attribute code="documento_responsavel" type="string" />
+       <attribute code="partner" type="string" />
+       <attribute code="partner_link_boleto" type="string" />
+       <attribute code="partner_boleto_venc" type="string" />
+       <attribute code="ordem_compra" type="string" />
+       <attribute code="reanalise_clearsale" type="string" />
+   </extension_attributes>
+</config>

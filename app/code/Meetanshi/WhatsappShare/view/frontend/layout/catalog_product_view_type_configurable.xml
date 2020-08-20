@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="Meetanshi_WhatsappShare::css/whatsapp.css"/>
+    </head>
+    <body>
+        <referenceContainer name="product.info.options.wrapper">
+            <block class="Meetanshi\WhatsappShare\Block\WhatsappShare" name="whatsapp_configurable" after="-" template="Meetanshi_WhatsappShare::product/view/whatsappshare.phtml" ifconfig="whatsappshare/configuration/enable" />
+        </referenceContainer>
+    </body>
+</page>

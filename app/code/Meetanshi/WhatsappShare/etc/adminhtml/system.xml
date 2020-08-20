@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!--/** * Provider: Meetanshi. * Package: Meetanshi_WhatsappShare * Support: support@meetanshi.com (https://meetanshi.com/) */-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="meetanshi" translate="label" class="meetanshi" sortOrder="100">
+            <label><![CDATA[]]></label>
+        </tab>
+        <section id="whatsappshare" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>separator-top</class>
+            <label>WhatsApp Share</label>
+            <tab>meetanshi</tab>
+            <resource>Meetanshi_WhatsappShare::whatsappshare_config</resource>
+            <group id="configuration" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Configuration</label>
+                <field id="enable" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>WhatsApp Share</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                </field>
+                <field id="product_wise" translate="label" type="select" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Enable WhatsApp Share</label>
+                    <source_model>Meetanshi\WhatsappShare\Model\Config\Source\Product</source_model>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+                <field id="category_wise" translate="label" type="select" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Show WhatsApp Share Button On Category Page</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+            </group>
+            <group id="settings" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Sharing Options</label>
+                <field id="button_type" translate="label" type="select" sortOrder="10" showInDefault="1"
+                       showInWebsite="1" showInStore="1">
+                    <label>WhatsApp Share Button Type</label>
+                    <source_model>Meetanshi\WhatsappShare\Model\Config\Source\Button</source_model>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="custom_message" translate="label" type="textarea" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Custom Sharing Message</label>
+                    <validate>required-entry</validate>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="product_name" translate="label" type="select" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Product Name</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="product_description" translate="label" type="select" sortOrder="40" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Product Description</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="product_price" translate="label" type="select" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Product Price</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="deal_on" translate="label" type="select" sortOrder="60" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Deal On</label>
+                    <source_model>Meetanshi\WhatsappShare\Model\Config\Source\Dealon</source_model>
+                    <depends>
+                        <field id="whatsappshare/configuration/enable">1</field>
+                    </depends>
+                </field>
+                <field id="special_price_message" translate="label" type="textarea" sortOrder="70" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Special Price Message</label>
+                    <comment>
+                        <![CDATA[You must have special price enabled for the products to share the deal.You can make use of {{special_price}} variable in text.]]></comment>
+                    <depends>
+                        <field id="deal_on">1</field>
+                    </depends>
+                </field>
+                <field id="discount_message" translate="label" type="textarea" sortOrder="80" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Discount Message</label>
+                    <comment>
+                        <![CDATA[Make sure you create appropriate shopping cart or catalog price rule and share the details here as a deal.]]></comment>
+                    <depends>
+                        <field id="deal_on">2</field>
+                    </depends>
+                </field>
+            </group>
+            <group id="utm" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>UTM Tracking Settings</label>
+                <field id="enable" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>UTM Tracking</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                </field>
+                <field id="campaign_source" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Campaign Source</label>
+                    <validate>required-entry</validate>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+                <field id="campaign_medium" translate="label" type="text" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Campaign Medium</label>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+                <field id="campaign_name" translate="label" type="text" sortOrder="40" showInDefault="1"
+                       showInWebsite="1" showInStore="1">
+                    <label>Campaign Name</label>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+            </group>
+            <group id="bitly" translate="label" type="text" sortOrder="4" showInDefault="1" showInWebsite="1"
+                   showInStore="1">
+                <label>Bitly Short URL Settings</label>
+                <field id="enable" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>Bitly Short URL</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                </field>
+                <field id="login_name" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Login Name</label>
+                    <validate>required-entry</validate>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+                <field id="api_key" translate="label" type="text" sortOrder="30" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>API Key</label>
+                    <validate>required-entry</validate>
+                    <frontend_model>Meetanshi\WhatsappShare\Block\System\Config\Form\Field\Disable</frontend_model>
+                    <comment>
+                        <![CDATA[Register with Bitly to  <a href="https://dev.bitly.com/" target="_blank">get an API Key</a> and make use of URL shortner.]]></comment>
+                    <depends>
+                        <field id="enable">1</field>
+                    </depends>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

@@ -1,0 +1,18 @@
+.wa_div{display: inline-block;position: relative;width: 100%;top: -20px;}
+.wa_div_list{display: inline-block;position: relative;width: 100%;margin-top: 6px;}
+.wa_btn_i{float:left;background-image: url('../images/Whatsapp-Small-Image.png');width: 50px;height: 50px;background-size: 50px 50px;}
+.wa_btn_m{float:left;background-image: url('../images/Whatsapp-Big-Image.png');}
+
+@media only screen and (min-width: 331px) {
+    .wa_btn_m{
+        width: 150px;
+        height: 40px;
+    }
+}
+@media only screen and (max-width: 330px) {
+    .wa_btn_m{
+        background-size: 125px;
+        height: 33px;
+        width: 125px;
+    }
+}

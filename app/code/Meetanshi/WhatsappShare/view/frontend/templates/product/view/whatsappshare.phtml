@@ -1,0 +1,36 @@
+﻿<?php
+/** @var $block \Meetanshi\WhatsappShare\Block\WhatsappShare */
+$storeId = $block->getCurrentStoreId();
+$whatsappData = $block->getConfigValue($storeId);
+$currentProduct = $block->getCurrentProduct();
+$categoryId = $currentProduct->getCategoryIds();
+$specificCategory = $block->getCategoryEnable($categoryId);
+$specificProduct = $block->getProductEnable($currentProduct->getId());
+$productWise = $whatsappData['product_wise'];
+$flag = false;
+if ($productWise == '0'):
+    $flag = true;
+elseif (($specificCategory == '1') && ($productWise == '1')):
+    $flag = true;
+elseif ($specificProduct && ($productWise == '2')):
+    $flag = true;
+endif;
+if ($flag):?>
+    <div class="wa_div">
+    <?php if (preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"])):
+    if(preg_match('/(Chrome|CriOS)\//i',$_SERVER['HTTP_USER_AGENT'])
+    && !preg_match('/(Aviator|ChromePlus|coc_|Dragon|Edge|Flock|Iron|Kinza|Maxthon|MxNitro|Nichrome|OPR|Perk|Rockmelt|Seznam|Sleipnir|Spark|UBrowser|Vivaldi|WebExplorer|YaBrowser)/i',$_SERVER['HTTP_USER_AGENT'])):?>
+        <a href="https://wa.me/?text=<?php echo $block->getMessage($currentProduct); ?>">
+            <?php else:?>
+        <a href="whatsapp://send?text=<?php echo $block->getMessage($currentProduct); ?>" target="_blank" data-action="share/whatsapp/share">
+            <?php endif;?>
+    <?php else: ?>
+        <a href="https://web.whatsapp.com/send?text=<?php echo $block->getMessage($currentProduct); ?>" target="_blank" data-action="share/whatsapp/share">
+    <?php endif; ?>
+    <?php if ($whatsappData['button_type'] == '1'): ?>
+        <span class="wa_btn_i"></span>
+    <?php else: ?>
+        <span class="wa_btn_m"></span>
+    <?php endif; ?>
+    </a></div>
+<?php endif; ?>
